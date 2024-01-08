@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayesha</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-6540746-5540750.mp4">
-  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaiftikhar151&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaiftikhar151" /> </p>
 
